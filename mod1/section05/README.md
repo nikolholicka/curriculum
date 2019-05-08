@@ -1,0 +1,13 @@
+
+- Repo added: /c/DS/curriculum/mod1/section04/repo_clone.py
+- Repo added: 
+- Repo added: 
+- Repo added: https://github.com/learn-co-students/dsc-1-05-03-sql-database-basics-online-ds-pt-041519.git
+- Repo added: https://github.com/learn-co-students/dsc-1-05-05-selecting-data-online-ds-pt-041519.git
+- Repo added: https://github.com/learn-co-students/dsc-1-05-05-selecting-data-online-ds-pt-041519.git
+- Repo added: https://github.com/learn-co-students/dsc-1-05-06-selecting-data-lab-online-ds-pt-041519.git
+- Repo added: https://github.com/learn-co-students/dsc-1-05-08-filtering-and-ordering-lab-online-ds-pt-041519.git
+- Repo added: https://github.com/learn-co-students/dsc-1-05-11-join-statements-lab-online-ds-pt-041519.git
+- Repo added: https://github.com/learn-co-students/dsc-1-05-13-one-to-many-and-many-to-many-joins-lab-online-ds-pt-041519.git
+- Repo added: https://github.com/learn-co-students/dsc-0-05-14-grouping-data-lab-online-ds-pt-041519.git
+- Repo added: https://github.com/learn-co-students/dsc-1-05-17-using-sql-with-pandas-lab-online-ds-pt-041519.git
