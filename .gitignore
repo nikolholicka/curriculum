@@ -103,3 +103,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 ._old_git/
+
+# mod 5
+mod5/project/airbnb/*.csv
