@@ -106,3 +106,6 @@ venv.bak/
 
 # mod 5
 mod5/project/airbnb/*.csv
+
+# mod 6
+mod6/project_ideas/data/*.csv
